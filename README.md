@@ -40,8 +40,7 @@ Navigate to the project directory:
 ```bash
 cd Stripe-Auto-Strike
 ```
-Open the Stripe_auto_strike.py file and replace 'your_secret_key_here' with your actual demo secret key obtained from your Stripe account.
-
+Enter The Stripe Secret key whena the application ask you in the very beginning.
 # Usage
 After completing the installation steps and configuring your secret key, you can use Stripe Auto-Strike as follows:
 
